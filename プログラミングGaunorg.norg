@@ -1,7 +1,6 @@
 @document.meta
 title: プログラミングGauche
 description: 関数型プログラミングを勉強するために、小川さんからお薦めいただいた書籍
-authors: eriko
 categories: 関数型プログラミング
 created: 2023-09-17
 version: 1.0.0
