@@ -340,3 +340,9 @@ WiMAX（Worldwide Interoperabillity for Microwave Access）は、マイクロ波
 ### 3.5.1 PPPとは
 PPP(Point-to-Point)は、その名の通り、ポイントツーポイント（1対1）でコンピュータを接続するためのプロトコルである  
 PPPは、OSI参照モデルの第2層に相当するデータリンクプロトコルといえる  
+# 4.IP(Internet Protocol)
+## 4.1 IPはインターネット層のプロトコル
+インターネット層はIPとICMP（Internet Control Message Protocol）の2つのプロトコルから構成されている  
+### 4.1.1 IPはOSI基本参照モデルの第3層(ネットワーク層)に相当
+ネットワーク層の役割は終端ノード間の通信を実現すること  
+要は、異なるデータリンク同士も一つのネットワークとして連携させて、パケットを送信する、データリンク層よりも大規模なネットワークを管理する  
