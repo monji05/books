@@ -336,3 +336,7 @@ WPA2は、Wi-Fi Allianceの認証プログラムであるWPA（Wi-Fi Protected A
 WPA3はWPA2のセキュリティ機能を更に拡張した規格である  
 ### 3.4.9 WiMAX
 WiMAX（Worldwide Interoperabillity for Microwave Access）は、マイクロ波を使って企業や自宅への無線接続を行う方式である  
+## 3.5 PPP(Point-to-Point Protocol)
+### 3.5.1 PPPとは
+PPP(Point-to-Point)は、その名の通り、ポイントツーポイント（1対1）でコンピュータを接続するためのプロトコルである  
+PPPは、OSI参照モデルの第2層に相当するデータリンクプロトコルといえる  
